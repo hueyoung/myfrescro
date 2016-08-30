@@ -13,8 +13,8 @@
 
     <com.facebook.drawee.view.SimpleDraweeView
         android:id="@+id/my_image_view"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:layout_marginTop="10dp"
         fresco:placeholderImageScaleType="fitXY"
         fresco:failureImage="@drawable/load_default"
